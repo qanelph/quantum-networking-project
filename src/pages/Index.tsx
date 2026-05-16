@@ -11,7 +11,7 @@ export default function Index() {
           <a href="#">Афиша</a>
           <a href="#">Адреса</a>
         </nav>
-        <button className="btn-cta">Забронировать</button>
+        <button className="btn-cta">Бронировать</button>
       </header>
 
       <main>
